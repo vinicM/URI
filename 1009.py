@@ -1,0 +1,5 @@
+N = input()
+S = float (input())
+V = float(input())
+bonus= (V*0.15)
+print("TOTAL = R$ {:.2f}".format(S+bonus))
