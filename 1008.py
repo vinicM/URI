@@ -1,0 +1,5 @@
+N = int (input())
+H = int (input())
+V = float(input())
+print("NUMBER = {}".format(N))
+print("SALARY = U$ {:.2F}".format(H*V))
